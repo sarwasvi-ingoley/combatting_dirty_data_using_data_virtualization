@@ -15,8 +15,8 @@ I have uploaded the following things in this repository:
   
 
 Pre-requisite softwares:
-  --> Denodo Platform	8.0:	Go to https://community.denodo.com/express and download the installer and license
-  --> MySQL	5.0 or higher: You will need MySQL (or any other relational database) to store some of the data sources used in the tutorial. You can download it from here: http://dev.mysql.com/downloads/mysql/
-  --> MySQL Connector/J	5.0 or higher: This is the JDBC driver that will enable Denodo to connect to MySQL: http://dev.mysql.com/downloads/connector/j/
+  1) Denodo Platform	8.0:	Go to https://community.denodo.com/express and download the installer and license
+  2) MySQL	5.0 or higher: You will need MySQL (or any other relational database) to store some of the data sources used in the tutorial. You can download it from here: http://dev.mysql.com/downloads/mysql/
+  3) MySQL Connector/J	5.0 or higher: This is the JDBC driver that will enable Denodo to connect to MySQL: http://dev.mysql.com/downloads/connector/j/
 
 
