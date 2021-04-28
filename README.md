@@ -2,7 +2,7 @@
 --> Name: Sarwasvi Ingoley
 --> Class: A3 
 --> Course: Computer Engg 
---> Faculty name: Vaibhav Vasani 
+--> Faculty name: Prof. Vaibhav Vasani 
 --> College: K. J. Somaiya College of Enginnering
 
 I have uploaded the following things in this repository:
