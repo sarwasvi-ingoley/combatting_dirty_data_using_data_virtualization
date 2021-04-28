@@ -7,13 +7,12 @@ College: K. J. Somaiya College of Enginnering
 
 I have uploaded the following things in this repository:
   Technical paper which I had implemented
+  IA 1 technical paper presentation 
   Steps that I had taken to implement Data Virtualization and this paper 
   MySQL database
   Excel database
   Output screenshots 
   
-
-
 
 Things required for data virtualization:
   Denodo Platform	8.0:	Go to https://community.denodo.com/express and download the installer and license
