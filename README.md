@@ -1,2 +1,15 @@
 # combatting_dirty_data_using_data_virtualization
-Data has now become the DNA of any entity in the modern age. During this course of development, the complexity to handle this data has also increased and is now creating data bottlenecks in various areas. The complexity of the current systems has increased due to the interconnected nature of widely distributed systems which share data. This development resulted in data explosion and all kinds of data started flowing into the system. As all the data is unrequired garbage data, there is no point in developing your business intelligence over this data. Data Clarity used along with Data Virtualization provides an exceptional solution to these problems by handling the complex data workloads with respect to heterogeneous data and disparate data sources and provides a holistic view of the data to the business organization.
+Name: Sarwasvi Ingoley
+Class: A3 
+Course: Computer Engg 
+Faculty name: Vaibhav Vasani 
+College: K. J. Somaiya College of Enginnering
+
+Details of technical paper have been attached.
+
+Things required for data virtualization:
+  Denodo Platform	8.0:	Go to https://community.denodo.com/express and download the installer and license
+  MySQL	5.0 or higher: You will need MySQL (or any other relational database) to store some of the data sources used in the tutorial. You can download it from here: http://dev.mysql.com/downloads/mysql/
+  MySQL Connector/J	5.0 or higher: This is the JDBC driver that will enable Denodo to connect to MySQL: http://dev.mysql.com/downloads/connector/j/
+
+Steps to implement it has been attached
